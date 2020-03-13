@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>853115638900-u0i8bpbi4qoi9vr3rbcfncm25hgo80kd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.853115638900-u0i8bpbi4qoi9vr3rbcfncm25hgo80kd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDE7eoFPy1in_z_wZLJvoAnXoiTRpyUnSQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>853115638900</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jovan.Twitter</string>
+	<key>PROJECT_ID</key>
+	<string>twitter-37fde</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitter-37fde.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:853115638900:ios:d07d02b7b4dd8eda57ad21</string>
+	<key>DATABASE_URL</key>
+	<string>https://twitter-37fde.firebaseio.com</string>
+</dict>
+</plist>
